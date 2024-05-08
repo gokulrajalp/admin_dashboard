@@ -1,29 +1,15 @@
 {
   "files": {
-    "main.css": "/admin_dashboard/static/css/main.ffa8570c.css",
-    "main.js": "/admin_dashboard/static/js/main.017c653e.js",
+    "main.css": "/admin_dashboard/static/css/main.f855e6bc.css",
+    "main.js": "/admin_dashboard/static/js/main.86b587f9.js",
     "static/js/453.151daa23.chunk.js": "/admin_dashboard/static/js/453.151daa23.chunk.js",
-    "static/media/Python_React_Ecom-gh-pages.zip": "/admin_dashboard/static/media/Python_React_Ecom-gh-pages.86b780b154ff46b0600e.zip",
-    "static/media/arabian-ranches-ii.jpg": "/admin_dashboard/static/media/arabian-ranches-ii.d1c4dc3c439244b2c29b.jpg",
-    "static/media/dubai-hills-estate.jpg": "/admin_dashboard/static/media/dubai-hills-estate.cb30d848053cfdf70a30.jpg",
-    "static/media/arabian-ranches.jpg": "/admin_dashboard/static/media/arabian-ranches.f1c09b822df896856723.jpg",
-    "static/media/downtown-dubai.jpg": "/admin_dashboard/static/media/downtown-dubai.ebe70f5cedb756c38862.jpg",
-    "static/media/4.jpg": "/admin_dashboard/static/media/4.7a853003f43155c21776.jpg",
-    "static/media/emirates-living.jpg": "/admin_dashboard/static/media/emirates-living.9aa937f10edf833fe6fd.jpg",
-    "static/media/3.jpeg": "/admin_dashboard/static/media/3.543ca738255f3d94edef.jpeg",
-    "static/media/5.jpg": "/admin_dashboard/static/media/5.90cd01147f7414f89431.jpg",
-    "static/media/2.jpeg": "/admin_dashboard/static/media/2.43f353adce1d21349016.jpeg",
-    "static/media/1.jpeg": "/admin_dashboard/static/media/1.a5d6764fc7c5cdd54a7f.jpeg",
-    "static/media/6.png": "/admin_dashboard/static/media/6.5721c2a99c7c6d71767d.png",
-    "static/media/images.jpeg": "/admin_dashboard/static/media/images.1727bd1e86f12d2ae2be.jpeg",
-    "static/media/dubai-marina.png": "/admin_dashboard/static/media/dubai-marina.df8f40f772b165f5d919.png",
     "index.html": "/admin_dashboard/index.html",
-    "main.ffa8570c.css.map": "/admin_dashboard/static/css/main.ffa8570c.css.map",
-    "main.017c653e.js.map": "/admin_dashboard/static/js/main.017c653e.js.map",
+    "main.f855e6bc.css.map": "/admin_dashboard/static/css/main.f855e6bc.css.map",
+    "main.86b587f9.js.map": "/admin_dashboard/static/js/main.86b587f9.js.map",
     "453.151daa23.chunk.js.map": "/admin_dashboard/static/js/453.151daa23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffa8570c.css",
-    "static/js/main.017c653e.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.86b587f9.js"
   ]
 }
